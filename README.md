@@ -46,7 +46,7 @@ mini-fullstack-app/
 ### 1️⃣ Clone the repository
 
 ```
-git clone <your-repo-link>
+git clone <repo-link>
 cd mini-fullstack-app
 ```
 
